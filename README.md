@@ -1,0 +1,1 @@
+# template-minecraft-server-paper
